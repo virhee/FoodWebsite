@@ -1,0 +1,24 @@
+body {
+    font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+    margin 20px;
+    background-color: antiquewhite;
+}
+header{
+    text-align: center;
+}
+nav a{
+    margin: 10px;
+    background-color:navajowhite;
+    color:indigo;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+h1{
+    color:darkmagenta;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+h3{
+    color:midnightblue
+}
